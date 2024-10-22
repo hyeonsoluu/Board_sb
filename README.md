@@ -4,13 +4,13 @@ SpringBoot를 이용한 게시판 구현
   - 참여 인원 : 1명
   - 진행 일시 : 24.09.02 ~ 24.09.06
 
-3. 구현
+2. 구현
   - java version : jdk-20.0.2
   - Spring Tools 4 : 4.19.1 - MACOR x86_64
   - Spring Boot version : 3.1.3
   - DB : JPA
 
-4. 기능
+3. 기능
      - 게시글 작성
      - 댓글 작성
      - 로그인 / 회원가입 / 로그아웃
